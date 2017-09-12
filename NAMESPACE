@@ -1,0 +1,4 @@
+import(psych)
+import(plyr)
+importFrom("stats", "cor", "reshape")
+export(auto.pca)
